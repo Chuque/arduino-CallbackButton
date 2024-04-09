@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CallbackButton	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setCallbackFunction	KEYWORD2
+checkButtonState	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CALLBACK_BUTTON_SHORT_CLICK
+CALLBACK_BUTTON_LONG_CLICK
+CALLBACK_BUTTON_DOUBLE_CLICK
